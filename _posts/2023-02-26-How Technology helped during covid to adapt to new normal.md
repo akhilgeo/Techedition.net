@@ -3,11 +3,9 @@ title: How Technology helped during covid to adapt to new normal?
 layout: post
 author: john
 categories:
-- Jekyll
-- tutorial
-tags:
-- red
-- yellow
+- Technology
+- Internet
+tags: []
 image: assets/images/11.jpg
 description: The COVID-19 pandemic brought unprecedented challenges to our society,
   forcing people and businesses to adapt to a new normal. One of the significant changes

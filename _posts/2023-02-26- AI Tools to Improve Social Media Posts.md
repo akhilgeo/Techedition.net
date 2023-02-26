@@ -3,8 +3,7 @@ title: AI Tools to Improve Social Media Posts
 layout: post
 author: sal
 categories:
-- Jekyll
-- tutorial
+- SocialMedia
 image: assets/images/12.jpg
 featured: true
 hidden: true

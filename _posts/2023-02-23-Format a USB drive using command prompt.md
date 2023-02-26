@@ -3,8 +3,9 @@ title: Format a USB drive using command prompt
 layout: post
 author: sal
 categories:
-- Jekyll
-- tutorial
+- Windows
+- Tutorial
+- HowTo
 image: assets/images/16.jpg
 ---
 
