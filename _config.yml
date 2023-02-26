@@ -17,19 +17,14 @@ authors:
     name: Akhil
     display_name: Akhil
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of TechEdition, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Author of TechEdition"
   john:
     name: Akhil
     display_name: Akhil    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing TechEdition demo, a Jekyll template compatible with Github pages."
+    
+    description: "This is the author box. Write a short description of the author here."
 
 # Plugins
 plugins:
