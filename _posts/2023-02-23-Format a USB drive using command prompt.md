@@ -23,6 +23,8 @@ Step 3: Select the USB Drive
 
 Once Command Prompt is open, type "diskpart" and press Enter. This will open the DiskPart command-line utility. Type "list disk" and press Enter to see the list of all available disks on your computer, including the USB drive. Identify the number associated with the USB drive you want to format.
 
+![]({{ 'assets/images/usb1.png' | relative_url }})
+
 Step 4: Select the USB Drive
 
 Type "select disk [disk number]" and press Enter. Replace [disk number] with the number associated with the USB drive you want to format. This command will select the USB drive for formatting.
@@ -35,9 +37,13 @@ Step 6: Create a New Partition
 
 Type "create partition primary" and press Enter. This command will create a new primary partition on the selected USB drive.
 
+![]({{ 'assets/images/usb2.png' | relative_url }})
+
 Step 7: Format the USB Drive
 
 Type "format fs=ntfs quick" and press Enter. This command will format the USB drive with the NTFS file system. You can replace "ntfs" with "fat32" or "exfat" if you prefer those file systems. The "quick" parameter will perform a quick format, which is faster than a full format.
+
+![]({{ 'assets/images/usb3.png' | relative_url }})
 
 Step 8: Assign a Drive Letter
 
