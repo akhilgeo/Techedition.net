@@ -1,7 +1,7 @@
 ---
 title: How Technology helped during covid to adapt to new normal?
 layout: post
-author: john
+author: akhil
 categories:
 - Technology
 - Internet

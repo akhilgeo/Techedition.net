@@ -13,18 +13,13 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Akhil
-    display_name: Akhil
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    description: "Author of TechEdition"
-  john:
+  akhil:
     name: Akhil
     display_name: Akhil    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     
-    description: "This is the author box. Write a short description of the author here."
+    description: "Author at TechEdition."
 
 # Plugins
 plugins:

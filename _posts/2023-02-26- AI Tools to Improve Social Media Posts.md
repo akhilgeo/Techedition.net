@@ -1,7 +1,7 @@
 ---
 title: AI Tools to Improve Social Media Posts
 layout: post
-author: sal
+author: akhil
 categories:
 - SocialMedia
 image: assets/images/12.jpg

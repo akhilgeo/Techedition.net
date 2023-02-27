@@ -1,7 +1,7 @@
 ---
 title: Format a USB drive using command prompt
 layout: post
-author: sal
+author: akhil
 categories:
 - Windows
 - Tutorial
