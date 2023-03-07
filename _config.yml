@@ -29,6 +29,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-admin
+  - jekyll-seo-tag
     
 # Archives
 jekyll-archives:
