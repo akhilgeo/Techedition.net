@@ -10,6 +10,8 @@ description: Go through your files and folders to see if there are any that you 
   files or folders that you no longer need.
 ---
 
+In this blog post we will explain to you the easeise methods to free up the storage space in windows 11 or windows 10. Below are few steps you can try.
+
 **1. Use the Disk Cleanup tool**
 
 Windows comes with a built-in tool called Disk Cleanup that can help you free up space on your hard drive. To access it, go to the Start menu and type "Disk Cleanup" in the search box. Click on the Disk Cleanup app to open it.
