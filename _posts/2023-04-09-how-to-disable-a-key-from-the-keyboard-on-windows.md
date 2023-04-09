@@ -10,6 +10,8 @@ description: |-
   here's a step-by-step guide on how to disable a key from the keyboard on Windows:
 ---
 
+Image Source: wikihow
+
 In this blog post we will give a step by step process to diasble a key from keyboard on your microsoft windows Operating suste,
 
 here's a step-by-step guide on how to disable a key from the keyboard on Windows:
