@@ -46,7 +46,9 @@ To avail yourself of the subsidies provided under the PM Surya Ghar Muft Bijli Y
 Under the Rooftop Solar Scheme, the government offers subsidies as follows:
 
 For installations up to 2 kW: Rs. 30,000 per kW
+
 For additional capacity up to 3 kW: Rs. 18,000 per kW
+
 Total subsidy for systems larger than 3 kW: Maximum of Rs. 78,000
 
 
