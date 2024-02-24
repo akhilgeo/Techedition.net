@@ -1,14 +1,18 @@
 ---
-title: Format a USB drive using command prompt
+date: 2017-07-29 13:24:49
 layout: post
+title: Formatting a usb drive using command prompt
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+image: /assets/images/16.jpg
+optimized_image: /assets/images/16.jpg
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+category: 'blog'
+tags:
+  - jekyll
+  - wordpress
+  - blog
 author: akhil
-categories:
-- Windows
-- Tutorial
-- HowTo
-image: assets/images/16.jpg
 ---
-
 Formatting a USB drive is a useful way to erase its contents and prepare it for a new use. While there are many third-party tools available to format USB drives, you can also format a USB drive through Command Prompt on a Windows computer. In this blog post, we will guide you through the steps to format USB through Command Prompt.
 
 Step 1: Connect the USB Drive

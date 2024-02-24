@@ -5,7 +5,8 @@ author: akhil
 categories:
 - SocialMedia
 Tags: Instagram
-image: assets/images/instagram.jpg
+image: /assets/images/instagram.jpg
+description: Instagram is one of the most popular social media platforms in the world, with millions of users sharing photos and videos every day
 ---
 
 Instagram is one of the most popular social media platforms in the world, with millions of users sharing photos and videos every day. If you're looking to up your Instagram game and create more engaging and visually appealing posts, there are a variety of tools available that can help. Here are a few tools that could help you with your Instagram posts:

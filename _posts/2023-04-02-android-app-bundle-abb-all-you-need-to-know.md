@@ -4,11 +4,8 @@ layout: post
 categories:
 - Technology
 description: Android App Bundle is a new publishing format that provides several benefits
-  for developers and users. It reduces app size, provides a more personalized experience
-  for users, and helps developers optimize their app for different devices. To create
-  an Android App Bundle, developers need to use Android Studio and follow a few simple
-  steps.
-image: assets/images/abb.jpg
+  for developers and users. 
+image: /assets/images/abb.jpg
 ---
 
 Android App Bundle is a new publishing format that was introduced by Google in 2018. It's designed to replace the traditional APK publishing format and provide a more efficient way to package and distribute Android apps. Here's what you need to know about Android App Bundle:

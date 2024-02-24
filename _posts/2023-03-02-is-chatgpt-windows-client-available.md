@@ -5,7 +5,8 @@ author: akhil
 categories:
 - Windows
 Tags: ChatGPT
-image: assets/images/Chatgpt.png
+image: /assets/images/Chatgpt.png
+description: As an AI language model, ChatGPT is not a standalone software application that requires installation or a Windows client to be downloaded. 
 ---
 
 As an AI language model, ChatGPT is not a standalone software application that requires installation or a Windows client to be downloaded. Instead, ChatGPT is accessible through various platforms and interfaces that allow users to interact with it and leverage its natural language processing capabilities.

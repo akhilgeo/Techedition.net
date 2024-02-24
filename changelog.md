@@ -1,67 +1,111 @@
-# Mediumish Jekyll Theme - Change Log
+# Changelog
 
-## 2019-05-16, v1.0.36
-- docker-composer.yml
-- better responsiveness for 1920x1080 resolution
+All notable changes to this project will be documented in this file.
 
-## 2019-04-02, v1.0.35
-- Fixed Github pages issue with ratings under 1
-- Added support for local avatars
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 2019-03-22, v1.0.34
-- Deferred font awesome and google fonts
+## [3.1.2] - 2022-09-27
 
-## 2019-03-22, v1.0.33
-- Added image lazy load (config.yml - lazyimages: "enabled/disabled")
-- Added object cover images instead of background images for home featured cards
-- Removed disqus count from homepage for better performance
+### Changed
 
-## 2019-03-20, v1.0.32
-- Centered avatar image on smaller devices
-- Removed .html endings in cats/tags
-- Added Linkedin share 
-- Added Table of Contents (toc:true)
-- Added Paragraph before TOC (beforetoc: "My short description here")
+- Moved documentation from wiki to repo
+- Bumped up NPM dependencies
+- Created this `CHANGELOG.md` file
+- Cleaned up the `README.md` file
 
+## [3.1.1] - 2021-04-15
 
-## 2019-03-20, v1.0.31
-- Added adsense support (activate via _config.yml)
-- Fixed share for large headers
+### Changed
 
-## 2019-03-20, v1.0.30
-- Added Tags support
-- Removed Google + sharing, no longer needed
+- Added `formspree_form_id` config
+- Bumped up dependencies
 
-## 2019-03-01, v1.0.29
-- Fixed Jumbotron categories link
+### Fixed
 
-## 2019-03-01, v1.0.28
-- Added blurred text on spoilers
-- Added half stars for ratings
+- Fixed minor bugs
 
-## 2019-03-01, v1.0.27
-- Reveal hidden spoilers on click
-- Syntax line numbers
-- Post rating stars
-- Fixed category links with more than 1 word
+## [3.1.0] - 2020-04-02
 
-## 2019-02-14
-- Fixed Feed site title not showing
-- Added 404 page
+### Added
 
-## 2019-02-10
-- Fixed CSS Jumbotron categories
+- Added MathJax library to render math expressions, thanks to [@XieGuochao](https://github.com/XieGuochao)
 
-## 2019-02-09
-- Fixed Category links are now compatible with Github pages. Archive still available for non Github pages.
-- Added Search
-- Added SEO
+### Changed
 
-## 2018-11-08
-- Fixed reponsive footer jumbotron for tags
+- Updated Google Analytics script, thanks to [@JHLeeeMe](https://github.com/JHLeeeMe)
 
-## 2018-11-07
-- Added external image support
+### Fixed
 
-## 2018-09-12
-- Added option to disable comments in a specific post with `comments: false` in YAML front matter
+- Fixed hero URL, thanks to [@JoelSalzesson](https://github.com/JoelSalzesson)
+
+## [3.0.2] - 2020-02-05
+
+### Fixed
+
+- Added assets folder
+
+## [3.0.1] - 2020-02-05
+
+### Fixed
+
+- Fixed post SVG icons
+
+## [3.0.0] - 2020-02-05
+
+### Added
+
+- Created theme `gem`
+- Enabled text translations
+- Added heading anchor links
+
+### Changed
+
+- Changed code highlight colors
+- Changed from Stylus to SASS
+
+## [2.0.1] - 2020-01-30
+
+### Changed
+
+- Optimized to support disabled JS
+
+### Fixed
+
+- Fixed bugs
+
+## [2.0.0] - 2019-08-24
+
+### Added
+
+- Added optional [sidebar](docs/features.md#posts-sidebar)
+- Added optional [Featured post](docs/features.md#featured-post)
+- Added optional ["Before you go" modal](docs/features.md#before-you-go-modal)
+- Added optional [post pagination](docs/features.md#paginated-posts)
+- Added [post recommendation](docs/features.md#post-recommendation)
+- Added meta keywords to improve SEO
+- Added JSON-LD to improve SEO
+- Set up [Netlify CMS](docs/features.md#netlify-cms-ready)
+
+### Changed
+
+- Changed pagination to be [optional](docs/features.md#home-page-pagination)
+- Improved [Tags page](docs/features.md#tags-page)
+- Cleaned up and improved [Front Matter properties](docs/post.md#front-matter-properties)
+- Improved customization settings
+- Minor design updates
+
+## [1.0.1] - 2019-08-16
+
+### Changed
+
+- Upgraded to Gulp 4
+
+### Fixed
+
+- Fixed bugs
+
+## [1.0.0] - 2019-08-16
+
+- Initial release
+

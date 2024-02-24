@@ -4,7 +4,9 @@ layout: post
 categories:
 - Internet
 Tags: Google
-image: assets/images/google.jpg
+image: /assets/images/google.jpg
+description: Google is a tech giant that has made a significant impact on our daily lives.
+
 ---
 
 Google is a tech giant that has made a significant impact on our daily lives. From search engines to smartphones, Google has revolutionized the way we interact with technology. In addition to its many products and services, Google also offers a range of free certifications that can help individuals and businesses improve their digital skills. In this blog post, we will explore some of the free certifications available from Google and how they can benefit you.

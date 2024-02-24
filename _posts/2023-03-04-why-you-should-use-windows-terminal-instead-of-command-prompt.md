@@ -5,7 +5,8 @@ author: akhil
 categories:
 - Windows
 Tags: CommandPrompt
-image: assets/images/windows_terminal.jpg
+image: /assets/images/windows_terminal.jpg
+description: If you've used a Windows computer for any length of time, you're probably familiar with Command Prompt.
 ---
 
 If you've used a Windows computer for any length of time, you're probably familiar with Command Prompt. It's been a mainstay of the Windows operating system for decades, providing a way for users to interact with the system through a command-line interface. But in recent years, Microsoft has introduced a new tool that's poised to take the place of Command Prompt as the go-to tool for power users and developers: Windows Terminal.

@@ -5,12 +5,8 @@ categories:
 - Internet
 - HowTo
 description: As 5G networks become more widely available, it's important to know whether
-  your phone is compatible. By checking your phone's specifications, your carrier's
-  5G coverage, your phone's network settings, and your phone's status bar, you can
-  determine whether your phone supports 5G. If you're still unsure, you can use a
-  third-party app to check. By following these steps, you can ensure that you're getting
-  the most out of your phone and taking advantage of the latest in wireless technology.
-image: assets/images/5G support.jpg
+  your phone is compatible.
+image: /assets/images/5G support.jpg
 ---
 
 As 5G networks become more widely available, many people are wondering whether their phones are compatible with this new technology. While most new smartphones released in recent years support 5G, not all phones are compatible. If you're unsure whether your phone supports 5G, here are some steps you can take to check.

@@ -3,11 +3,9 @@ title: How to get early access to Google Bard?
 layout: post
 categories:
 - Internet
-image: assets/images/bard.jpg
+image: /assets/images/bard.jpg
 description: In a recent blog post, Google announced that early access to their new
-  AI tool, Bard, would be available starting March 21. If you are interested in gaining
-  access to Bard as a member of the general public, you will need to sign up for the
-  waiting list, which is only available in certain regions.
+  AI tool
 ---
 
 In a recent blog post, Google announced that early access to their new AI tool, Bard, would be available starting March 21. If you are interested in gaining access to Bard as a member of the general public, you will need to sign up for the waiting list, which is only available in certain regions.

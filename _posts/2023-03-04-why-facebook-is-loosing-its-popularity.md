@@ -4,7 +4,8 @@ layout: post
 categories:
 - SocialMedia
 Tags: Facebook
-image: assets/images/Facebook.jpg
+image: /assets/images/Facebook.jpg
+description: Facebook was once the darling of the social media world, with millions of users flocking to the platform to connect with friends
 ---
 
 Facebook was once the darling of the social media world, with millions of users flocking to the platform to connect with friends, share photos and updates, and stay up-to-date with the latest news and trends. But in recent years, Facebook has seen a decline in user engagement and activity, with many people abandoning the platform altogether. So, what's behind this shift in user behavior? 

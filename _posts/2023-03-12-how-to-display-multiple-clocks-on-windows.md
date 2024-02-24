@@ -4,11 +4,8 @@ layout: post
 categories:
 - HowTo
 - Windows
-description: 'If you frequently communicate or work with people in different time
-  zones, you may find it useful to have multiple clocks on your Windows desktop. This
-  can help you keep track of time differences and avoid confusion when scheduling
-  meetings or calls. Here are the steps to display multiple clocks on Windows:'
-image: assets/images/clock_main.jpg
+description: If you frequently communicate or work with people in different time
+image: /assets/images/clock_main.jpg
 ---
 
 If you frequently communicate or work with people in different time zones, you may find it useful to have multiple clocks on your Windows desktop. This can help you keep track of time differences and avoid confusion when scheduling meetings or calls. Here are the steps to display multiple clocks on Windows:

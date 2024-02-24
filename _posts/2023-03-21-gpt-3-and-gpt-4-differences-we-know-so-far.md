@@ -4,7 +4,8 @@ layout: post
 categories:
 - Internet
 - Technology
-image: assets/images/chatgpt4.jpg
+image: /assets/images/chatgpt4.jpg
+description: OpenAI's GPT-3 has been making waves in the AI community since its release in 2020.
 ---
 
 OpenAI's GPT-3 has been making waves in the AI community since its release in 2020. Its ability to generate human-like text has been praised by many, but some are already looking ahead to the next iteration: GPT-4. So, what are the differences between GPT-3 and GPT-4? Let's take a closer look.

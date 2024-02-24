@@ -1,17 +1,16 @@
 ---
-title: The New MacBook Air M2 vs. Old MacBook Pro M1 – A Comparative Dive into Superior
-  Performance
+date: 2024-01-15 13:24:49
 layout: post
-categories:
-- Technology
-description: In the ever-evolving landscape of technology, Apple continues to push
-  the boundaries of innovation, delivering cutting-edge devices that redefine user
-  expectations. The latest addition to their lineup, the MacBook Air with the M2 chip,
-  has generated significant buzz, especially when compared to its predecessor, the
-  MacBook Pro with the M1 chip. In this blog post, we'll explore why the new MacBook
-  Air with the M2 chip stands shoulder-to-shoulder with the old MacBook Pro featuring
-  the M1 chip in terms of power and performance.
-image: assets/images/macbook.jpg
+title: The New MacBook Air M2 vs. Old MacBook Pro M1 – A Comparative Dive into Superior Performancet
+description: In the dynamic world of technology, Apple continues to raise the bar with each new iteration of its devices.
+image: /assets/images/macbook.jpg
+optimized_image: /assets/images/macbook.jpg
+subtitle: In the dynamic world of technology, Apple continues to raise the bar with each new iteration of its devices..
+category: 'Technology'
+tags:
+  - Apple
+  - Laptop
+author: akhil
 ---
 
 In the ever-evolving landscape of technology, Apple continues to push the boundaries of innovation, delivering cutting-edge devices that redefine user expectations. The latest addition to their lineup, the MacBook Air with the M2 chip, has generated significant buzz, especially when compared to its predecessor, the MacBook Pro with the M1 chip. In this blog post, we'll explore why the new MacBook Air with the M2 chip stands shoulder-to-shoulder with the old MacBook Pro featuring the M1 chip in terms of power and performance.

@@ -5,7 +5,8 @@ author: akhil
 categories:
 - Internet
 Tags: Password
-image: assets/images/password.png
+image: /assets/images/password.png
+description: As we all know, keeping track of multiple usernames and passwords can be a real hassle.
 ---
 
 As we all know, keeping track of multiple usernames and passwords can be a real hassle. With so many online accounts, it's easy to fall into the trap of using the same password for multiple accounts or using a simple password that is easy to remember. This is where password managers come in handy. Password managers are software tools that help you store and manage your passwords securely. In this blog post, we will take a look at some of the best password managers available.

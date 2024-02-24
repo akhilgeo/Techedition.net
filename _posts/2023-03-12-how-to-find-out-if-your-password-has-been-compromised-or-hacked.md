@@ -5,10 +5,7 @@ categories:
 - HowTo
 - Internet
 description: Passwords are an essential component of our online security. They protect
-  our personal information, financial data, and confidential documents from prying
-  eyes. However, passwords can be compromised, leaving us vulnerable to cyber-attacks.
-  In this blog, we will discuss how to find out if your password has been compromised.
-image: assets/images/password.jpg
+image: /assets/images/password.jpg
 ---
 
 > <a href="https://www.freepik.com/free-vector/plagiarism-concept-with-thief_10753002.htm?query=hacker hacking">Image by pikisuperstar</a> on Freepik

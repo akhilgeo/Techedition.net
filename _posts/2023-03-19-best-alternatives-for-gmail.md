@@ -4,7 +4,8 @@ layout: post
 categories:
 - Technology
 - Internet
-image: assets/images/gmail.jpg
+image: /assets/images/gmail.jpg
+description: Gmail is undoubtedly one of the most popular email services out there, but it's not the only one.
 ---
 
 Gmail is undoubtedly one of the most popular email services out there, but it's not the only one. There are plenty of other email services that offer great features and functionalities. In this post, we'll take a look at some of the best alternatives for Gmail.

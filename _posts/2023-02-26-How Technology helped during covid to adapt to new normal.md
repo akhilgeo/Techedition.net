@@ -6,13 +6,8 @@ categories:
 - Technology
 - Internet
 tags: []
-image: assets/images/11.jpg
+image: /assets/images/11.jpg
 description: The COVID-19 pandemic brought unprecedented challenges to our society,
-  forcing people and businesses to adapt to a new normal. One of the significant changes
-  we witnessed during the pandemic was the rapid acceleration of technology adoption.
-  With social distancing measures in place, remote work, online education, and telemedicine
-  became the new norm. In this blog post, we will explore how technology bloomed during
-  COVID and the impact it had on various sectors.
 featured: true
 hidden: true
 rating: 4.5

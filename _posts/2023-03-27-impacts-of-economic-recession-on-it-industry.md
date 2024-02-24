@@ -3,7 +3,8 @@ title: Impacts of economic recession on IT industry
 layout: post
 categories:
 - Technology
-image: assets/images/recession.jpg
+image: /assets/images/recession.jpg
+description: The IT industry is an essential part of the global economy and has been instrumental in driving innovation and productivity
 ---
 
 The IT industry is an essential part of the global economy and has been instrumental in driving innovation and productivity gains in recent years. However, like any other industry, the IT sector is susceptible to the impacts of an economic recession. In this blog post, we will discuss how a recession may affect the IT industry and what measures can be taken to mitigate these impacts.

@@ -3,7 +3,8 @@ title: Comparison between Edge, Chrome and Brave browsers
 layout: post
 categories:
 - Internet
-image: assets/images/browsers.jpg
+image: /assets/images/browsers.jpg
+description: When it comes to choosing a web browser, you have a lot of options to choose from.
 ---
 
 When it comes to choosing a web browser, you have a lot of options to choose from. Some of the most popular browsers include Edge, Chrome, and Brave Browser. In this blog post, we'll compare these three browsers based on several criteria, including privacy and security, speed and performance, customization, user interface, cross-platform support, and extensions and add-ons.

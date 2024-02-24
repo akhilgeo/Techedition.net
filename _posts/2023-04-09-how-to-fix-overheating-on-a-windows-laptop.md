@@ -1,13 +1,11 @@
 ---
 title: How to fix overheating on a Windows laptop?
 layout: post
-categories:
+Category:
 - Windows
-image: assets/images/overheating.jpg
+image: /assets/images/overheating.jpg
 description: By following these steps, you can help to prevent overheating and keep
-  your Windows laptop running smoothly. However, if you continue to experience overheating
-  issues, it may be time to seek professional help, as there may be an underlying
-  hardware issue.
+  your Windows laptop running smoothly.
 ---
 
 In this blog post we will explain  few tips on how to fix overheating on a Windows laptop:

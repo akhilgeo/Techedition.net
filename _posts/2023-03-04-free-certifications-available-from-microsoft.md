@@ -4,7 +4,8 @@ layout: post
 categories:
 - Windows
 Tags: Microsoft
-image: assets/images/microsoft.jpg
+image: /assets/images/microsoft.jpg
+description: Microsoft is one of the largest software companies in the world, providing a wide range of tools and services for businesses and consumers.
 ---
 
 Microsoft is one of the largest software companies in the world, providing a wide range of tools and services for businesses and consumers. In addition to its many products, Microsoft also offers several free certifications that can help individuals and businesses improve their digital skills. In this blog post, we will explore some of the free certifications available from Microsoft and how they can benefit you.

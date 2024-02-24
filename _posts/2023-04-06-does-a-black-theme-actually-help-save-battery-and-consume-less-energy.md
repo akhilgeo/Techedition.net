@@ -4,11 +4,8 @@ layout: post
 categories:
 - HowTo
 description: Using a black theme can help save battery life and consume less energy,
-  but the amount of energy saved depends on the device's screen technology and how
-  the theme is implemented. If your device uses an OLED screen, using a black theme
-  can save a considerable amount of battery life. However, if your device uses an
-  LED screen, the savings may not be as significant.
-image: assets/images/blacktheme.jpg
+  but the amount of energy 
+image: /assets/images/blacktheme.jpg
 ---
 
 As more and more people rely on their smartphones and other electronic devices, battery life has become a crucial aspect to consider. One of the most commonly suggested ways to improve battery life is to use a black theme on your device. But does a black theme actually help save battery and consume less energy? Let's explore the science behind it.

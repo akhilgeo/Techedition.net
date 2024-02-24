@@ -1,28 +1,95 @@
-# Site
-name: "TechEdition"
-title: "TechEdition"
-description: "TechEdition is a blog on Internet, SEO , Social Network , blogging , Modern Gadgets and tech News. TecheEdition.net will be sharing educational insights and tips to help you stay updated with the latest advancements in tech. From coding tips to digital marketing trends, we will cover it all"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: 
-google_analytics: 'UA-46278016-1'
-disqus: 'techeditionblog'
-mailchimp-list: ''
-include: ["_pages"]
-permalink: /:title/
+# Site Settings
+name: TechEdition
+title: Techedition | techedition.net
+description: TechEdition is a blog on Internet, SEO , Social Network , blogging , Modern Gadgets and tech News. TecheEdition.net will be sharing educational insights and tips to help you stay updated with the latest advancements in tech. From coding tips to digital marketing trends, we will cover it all.
+favicon: /assets/images/logo.png
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: youremail@test.com
+# See: https://disqus.com/
+disqus_username: techeditionblog
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
 
-# Authors
-authors:
-  akhil:
-    name: Akhil
-    display_name: Akhil    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    
-    description: "Author at TechEdition."
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: techedition
+facebook_username: techedition
+twitter_username: techedition
+instagram_username: techedition
+
+
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-46278016-1"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: true
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
 
 # Plugins
 plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+  - jekyll-admin
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
@@ -30,35 +97,24 @@ plugins:
   - jekyll-archives
   - jekyll-admin
   - jekyll-seo-tag
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
-    
-# Other
-markdown: kramdown
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+# Exclude my node related stuff
+exclude: [
+  'docs/',
+  'vendor/',
+  'LICENSE',
+  'CHANGELOG.md',
+  'jekflix.gemspec',
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
 
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "enabled"
-adsense-data-ad-client: "ca-pub-6773266203964671"
-
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
-
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+# Theme
+version: v2.1

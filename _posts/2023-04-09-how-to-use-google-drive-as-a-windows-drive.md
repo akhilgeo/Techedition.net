@@ -6,10 +6,8 @@ categories:
 - HowTo
 - Google
 description: By using Google Drive as a Windows drive, you can easily access your
-  files from anywhere and keep them synced across all your devices. Make sure to regularly
-  sync your files to ensure that they are up-to-date and to avoid losing any important
-  data.
-image: assets/images/gdrive.jpg
+  files from anywhere and keep them synced across all your devices. 
+image: /assets/images/gdrive.jpg
 ---
 
 Google drive by default provides you 15 GB of storage space. So, if you can use that space to quickly store the important information from your My Computer. Here's a step-by-step guide on how to use Google Drive as a Windows drive and store and sync your imortant files.

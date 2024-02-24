@@ -3,7 +3,8 @@ title: Is Brave Browser Safe? An In-Depth Look
 layout: post
 categories:
 - Internet
-image: assets/images/brave.jpg
+image: /assets/images/brave.jpg
+descitpion: With increasing concerns over online privacy and security, many people are turning
 ---
 
 With increasing concerns over online privacy and security, many people are turning to alternative web browsers that offer more protection and control over their personal data. One such browser that has gained popularity in recent years is Brave. Brave Browser is a free and open-source web browser that aims to provide a fast, secure, and private browsing experience. But with so many different browsers available today, you may be wondering if Brave Browser is safe to use. In this blog post, we'll take an in-depth look at the security features and privacy policies of Brave Browser to help you decide if it's the right browser for you.

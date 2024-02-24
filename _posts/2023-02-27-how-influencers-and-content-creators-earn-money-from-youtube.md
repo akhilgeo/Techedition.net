@@ -9,12 +9,7 @@ categories:
 - HowTo
 Tags: Youtube
 description: YouTube has become one of the most popular platforms for content creators
-  to showcase their talents and share their expertise with the world. With over 2
-  billion monthly active users, YouTube has created a massive opportunity for individuals
-  to earn money online. Indians, in particular, have been leveraging YouTube to earn
-  a significant income. In this blog post, we'll explore how Indians are earning money
-  from YouTube.
-image: assets/images/Youtube.gif
+image: /assets/images/Youtube.gif
 ---
 
 YouTube has become one of the most popular platforms for content creators to showcase their talents and share their expertise with the world. With over 2 billion monthly active users, YouTube has created a massive opportunity for individuals to earn money online. Indians, in particular, have been leveraging YouTube to earn a significant income. In this blog post, we'll explore how Indians are earning money from YouTube.

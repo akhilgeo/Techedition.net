@@ -3,7 +3,7 @@ title: How to disable a key from the keyboard on Windows?
 layout: post
 categories:
 - Windows
-image: assets/images/keyboard.jpeg
+image: /assets/images/keyboard.jpeg
 description: |-
   In this blog post we will give a step by step process to diasble a key from keyboard on your microsoft windows Operating suste,
 

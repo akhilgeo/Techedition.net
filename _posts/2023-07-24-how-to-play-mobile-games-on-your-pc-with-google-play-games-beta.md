@@ -5,7 +5,8 @@ categories:
 - Internet
 - Google
 - Games
-image: assets/images/google play.jpg
+description: Great news for gaming enthusiasts! Google has recently unveiled the beta version of Google Play Games for desktop
+image: /assets/images/google play.jpg
 ---
 
 Great news for gaming enthusiasts! Google has recently unveiled the beta version of Google Play Games for desktop, expanding its gaming platform beyond Android devices. Now, you can immerse yourself in a world of mobile gaming right on your PC, experiencing agility and enhanced performance with the convenience of using a mouse and keyboard.

@@ -5,10 +5,8 @@ categories:
 - Windows
 - HowTo
 description: 'Microsoft 365 is a cloud-based suite of productivity tools that includes
-  popular applications such as Word, Excel, PowerPoint, and Outlook. It also includes
-  cloud services like OneDrive and Teams, making it a valuable tool for both personal
-  and professional use. Here''s how you can get access to Microsoft 365 for free:'
-image: assets/images/office.jpg
+  popular applications'
+image: /assets/images/office.jpg
 ---
 
 Microsoft 365 is a cloud-based suite of productivity tools that includes popular applications such as Word, Excel, PowerPoint, and Outlook. It also includes cloud services like OneDrive and Teams, making it a valuable tool for both personal and professional use. Here's how you can get access to Microsoft 365 for free:

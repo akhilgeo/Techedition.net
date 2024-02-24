@@ -6,11 +6,7 @@ categories:
 - SocialMedia
 - Internet
 description: In today's world, social media has become an integral part of our lives.
-  We use social media to connect with our friends and family, share our thoughts,
-  and document our lives. However, as we spend more and more time on social media,
-  we also leave behind a digital footprint that can be hard to erase. If you are looking
-  to delete your social media footprint, here are some tips that can help.
-image: assets/images/digitalfootprint.jpg
+image: /assets/images/digitalfootprint.jpg
 ---
 
 In today's world, social media has become an integral part of our lives. We use social media to connect with our friends and family, share our thoughts, and document our lives. However, as we spend more and more time on social media, we also leave behind a digital footprint that can be hard to erase. If you are looking to delete your social media footprint, here are some tips that can help.

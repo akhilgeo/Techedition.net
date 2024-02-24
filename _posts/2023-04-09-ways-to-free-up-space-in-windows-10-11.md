@@ -4,10 +4,10 @@ layout: post
 categories:
 - Windows
 - HowTo
-image: assets/images/storage.jpg
+image: /assets/images/storage.jpg
 description: Go through your files and folders to see if there are any that you no
-  longer need. This could include old documents, downloads, or backups. Delete any
-  files or folders that you no longer need.
+  longer need. 
+
 ---
 
 In this blog post we will explain to you the easeise methods to free up the storage space in windows 11 or windows 10. Below are few steps you can try.

@@ -4,7 +4,8 @@ layout: post
 categories:
 - Windows
 - Internet
-image: assets/images/zombie_apps.jpg
+image: /assets/images/zombie_apps.jpg
+description: In today's digital age, there are countless apps available for download that can make our lives easier,
 ---
 
 In today's digital age, there are countless apps available for download that can make our lives easier, more productive, and more enjoyable. However, not all apps are created equal. Some apps may seem harmless, but they can actually be harmful to your device, your privacy, and your security. These apps are commonly known as "zombie apps", and they are apps that you should avoid using. Here are some reasons why you should not use zombie apps:

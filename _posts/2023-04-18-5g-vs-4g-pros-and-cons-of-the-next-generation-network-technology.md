@@ -4,12 +4,8 @@ layout: post
 categories:
 - Internet
 description: There are many pros and cons to consider when it comes to 5G network
-  technology. While 5G promises faster speeds, lower latency, and greater reliability
-  compared to 4G, it also requires new infrastructure and can be more expensive. Additionally,
-  there are concerns about the potential health effects of exposure to 5G radiation.
-  However, as 5G networks continue to be rolled out around the world, it will be interesting
-  to see how they perform and how they will impact the future of connectivity.
-image: assets/images/5G.jpg
+  technology. 
+image: /assets/images/5G.jpg
 ---
 
 In recent years, there has been a lot of hype around 5G network technology. This new standard promises faster internet speeds, lower latency, and greater reliability compared to 4G networks. However, like any new technology, there are both pros and cons to consider when it comes to 5G. Let's take a closer look at some of the advantages and disadvantages of 5G compared to 4G.

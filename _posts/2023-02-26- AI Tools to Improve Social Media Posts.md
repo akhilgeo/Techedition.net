@@ -4,9 +4,10 @@ layout: post
 author: akhil
 categories:
 - SocialMedia
-image: assets/images/12.jpg
+image: /assets/images/12.jpg
 featured: true
 hidden: true
+description: Social media has become an integral part of our daily lives, with billions of users worldwide. 
 ---
 
 Social media has become an integral part of our daily lives, with billions of users worldwide. Brands and businesses have also leveraged social media platforms to reach their target audiences, promote their products, and engage with their customers. However, managing social media platforms can be time-consuming and challenging, especially for small businesses or individuals. This is where AI tools come in handy. In this blog post, we will explore different AI tools that can help improve social media posts.

@@ -4,7 +4,8 @@ layout: post
 author: akhil
 categories:
 - Technology
-image: assets/images/IT stocks recession.png
+image: /assets/images/IT stocks recession.png
+description: With the ongoing COVID-19 pandemic and economic uncertainties, many investors are wondering
 ---
 
 With the ongoing COVID-19 pandemic and economic uncertainties, many investors are wondering if it is a good time to invest in tech stocks as a potential recession looms. While investing in tech stocks can be lucrative, it's important to weigh the risks and benefits, especially during times of economic uncertainty.

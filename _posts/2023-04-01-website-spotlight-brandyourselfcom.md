@@ -3,10 +3,8 @@ title: 'Website Spotlight : Brandyourself.com'
 layout: post
 categories: []
 description: Brandyourself.com is an online reputation management service that allows
-  individuals and businesses to control their online presence. Founded in 2009, the
-  platform provides users with tools to monitor, improve and protect their online
-  reputation.
-image: assets/images/brandyourself.jpg
+  individuals 
+image: /assets/images/brandyourself.jpg
 ---
 
 Brandyourself.com is an online reputation management service that allows individuals and businesses to control their online presence. Founded in 2009, the platform provides users with tools to monitor, improve and protect their online reputation.

@@ -7,7 +7,8 @@ categories:
 - SocialMedia
 - Google
 - Internet
-image: assets/images/youtube.jpg
+image: /assets/images/youtube.jpg
+description: YouTube is one of the largest video-sharing platforms on the internet, with over 2 billion monthly active users.
 ---
 
 YouTube is one of the largest video-sharing platforms on the internet, with over 2 billion monthly active users. One of the features that makes YouTube unique is the ability for creators to share their videos with the world, and Creative Commons is a license that allows creators to do just that.
