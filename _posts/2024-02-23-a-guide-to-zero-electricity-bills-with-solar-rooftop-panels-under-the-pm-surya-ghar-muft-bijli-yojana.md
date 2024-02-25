@@ -1,7 +1,7 @@
 ---
 title: A Guide to Zero Electricity Bills with Solar Rooftop Panels under the PM Surya
   Ghar Muft Bijli Yojana
-date: '2024-02-25 02:20:09'
+date: '2024-02-23 02:20:09'
 layout: post
 description: The launch of the PM Surya Ghar Muft Bijli Yojana has paved the way for
   households in India to achieve a zero electricity bill

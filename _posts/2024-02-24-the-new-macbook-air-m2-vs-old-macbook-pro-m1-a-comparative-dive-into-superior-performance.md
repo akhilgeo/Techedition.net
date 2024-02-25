@@ -1,5 +1,4 @@
 ---
-date: 2024-02-26 13:24:49
 layout: post
 title: The New MacBook Air M2 vs. Old MacBook Pro M1 – A Comparative Dive into Superior Performancet
 description: In the dynamic world of technology, Apple continues to raise the bar with each new iteration of its devices.
